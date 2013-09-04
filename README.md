@@ -17,7 +17,7 @@ _For example: Copy to your ~/bin folder and customize idekey value_
 
 ## Starting the Sample Debug Session
 
-Open the file `tests/ExampleTest.php` in Sublime Text 2 and goto line 6: `$stack = array();`.
+Open the file `tests/ExampleTest.php` in Sublime Text 2 and goto line 10: `$stack = array();`.
 
 Hit `Cmd+F8` on OS X, or `Ctrl+F8`, to Add a Breakpoint at the current line. You can trigger this manually by opening the Command Palette and fuzzy-searching for `Xdebug: Add/Remove Breakpoint`. A dot should appear next to the line number in the gutter. 
 
