@@ -13,6 +13,8 @@ The `bin/phpunit-debug` program runs `export XDEBUG_CONFIG="idekey=sublime.xdebu
 
 Make sure `bin/phpunit-debug` is on your `$PATH` somewhere and is executable.
 
+_For example: Copy to your ~/bin folder and customize idekey value_
+
 ## Starting the Sample Debug Session
 
 Open the file `tests/ExampleTest.php` in Sublime Text 2 and goto line 6: `$stack = array();`.
